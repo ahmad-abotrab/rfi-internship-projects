@@ -7,7 +7,7 @@ This repository documents my journey as a Data Analyst intern at RFI collaborati
 ## Table of Contents
 
 - [Week 1: Task Description](Task_1/README.md)
-- [Week 2: Task Description](./Week_2/README.md)
+- [Week 2: Task Description](Task_2/README.md)
 - [Final Report](./Final-Report/summary.md)
 
 ## Technologies Used
