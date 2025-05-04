@@ -6,7 +6,7 @@ This repository documents my journey as a Data Analyst intern at RFI collaborati
 
 ## Table of Contents
 
-- [Week 1: Task Description](./Week_1/README.md)
+- [Week 1: Task Description](Task_1/README.md)
 - [Week 2: Task Description](./Week_2/README.md)
 - [Final Report](./Final-Report/summary.md)
 
@@ -16,7 +16,7 @@ This repository documents my journey as a Data Analyst intern at RFI collaborati
 - R
 - Excel - CSV
 - RStudio
-- Libraries: dplyr, ggplot2, tidyr, etc.
+- Libraries: pandas ,dplyr, ggplot2, tidyr, etc.
 - Data Visualization Tools
 
 ## Contact
