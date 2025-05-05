@@ -1,8 +1,5 @@
 <a href="">
-	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="">
-		<img src="img.png" alt="Data Analyst internship with RFI company" />
-	</picture>
+<img src="img.png" alt="Data Analyst internship with RFI company" />
 </a>
 
 ## Internship Overview
