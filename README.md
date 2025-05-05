@@ -1,7 +1,7 @@
 <a href="">
 	<picture>
 		<source media="(prefers-color-scheme: dark)" srcset="">
-		<img src="rfi-internship-projects/img.png" alt="Data Analyst internship with RFI company" />
+		<img src="img.png" alt="Data Analyst internship with RFI company" />
 	</picture>
 </a>
 
